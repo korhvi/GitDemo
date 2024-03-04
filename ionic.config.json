@@ -1,0 +1,7 @@
+{
+  "name": "GitDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
